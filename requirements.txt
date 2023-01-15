@@ -1,0 +1,29 @@
+django==4.1.5 
+argon2-cffi==21.3.0 # sirve para encriptar contraseñas
+django-cors-headers==3.13.0
+django-environ==0.9.0 # Sirve para crear variables de ambiente
+djangorestframework==3.14.0
+pillow==9.4.0
+psycopg2==2.9.5
+stripe==5.0.0
+boto3==1.26.50 # Nos permite trabajar con el archivo storage_backends
+django-storages==1.13.2
+django-taggit==3.1.0
+django-allauth==0.52.0
+django-rest-auth==0.9.5
+django-crispy-forms==1.14.0
+crispy-tailwind==0.5.0
+django-ckeditor==6.5.1
+django-tailwind==3.4.0 # Integracion de Tailwind para Django
+markdown==3.4.1
+gunicorn==20.1.0
+whitenoise==6.3.0
+channels==4.0.0
+django-redis==5.2.0
+sqlparse==0.4.3
+asgiref==3.6.0
+pytz==2022.7.1
+mutagen==1.46.0
+django-celery-beat==2.4.0
+celery==5.2.7
+python-dateutil==2.8.2
